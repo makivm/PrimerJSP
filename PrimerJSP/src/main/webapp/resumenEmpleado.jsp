@@ -14,6 +14,7 @@
 	<li>Provincias: <%=request.getParameter("provincias")%></li> 
 	<li>Conocimientos:
 		
+		
 	<% 
 		 String[] conocimientos= request.getParameterValues("Conocimientos[]"); 
 		 
